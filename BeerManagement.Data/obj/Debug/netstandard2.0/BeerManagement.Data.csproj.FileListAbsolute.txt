@@ -1,0 +1,9 @@
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\bin\Debug\netstandard2.0\BeerManagement.Data.deps.json
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\bin\Debug\netstandard2.0\BeerManagement.Data.dll
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.csprojResolveAssemblyReference.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.csproj.CoreCompileInputs.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.AssemblyInfoInputs.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.AssemblyInfo.cs
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\bin\Debug\netstandard2.0\BeerManagement.Data.pdb
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.dll
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement.Data\obj\Debug\netstandard2.0\BeerManagement.Data.pdb

@@ -1,0 +1,14 @@
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.csprojResolveAssemblyReference.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.csproj.CoreCompileInputs.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.AssemblyInfoInputs.cache
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.AssemblyInfo.cs
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.deps.json
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.runtimeconfig.json
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.runtimeconfig.dev.json
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.dll
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.pdb
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.Data.dll
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\bin\Debug\netcoreapp2.0\BeerManagement.Data.pdb
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.dll
+F:\ASP_NET\ProjectDefence\BeerManagement\BeerManagement\obj\Debug\netcoreapp2.0\BeerManagement.pdb
